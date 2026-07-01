@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://ikonik4-l.github.io",
-    title: "Un0n",
+    title: "iKOni4.al",
     description: "Security research, CTF writeups and notes.",
     author: "Un0n",
     profile: "https://github.com/iKOnik4-l",
