@@ -2,11 +2,11 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://ikonik4-l.github.io",
+    url: "https://0xikon.github.io",
     title: "iKOni4.al",
     description: "Security research, CTF writeups and notes.",
     author: "Un0n",
-    profile: "https://github.com/iKOnik4-l",
+    profile: "https://github.com/0xiKOn",
     ogImage: "default-og.jpg",
     lang: "en",
     timezone: "Asia/Karachi",
@@ -29,7 +29,7 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/iKOnik4-l" },
+    { name: "github",   url: "https://github.com/0xiKOn" },
     { name: "linkedin", url: "https://www.linkedin.com/in/ali-aizid-gill" },
     { name: "mail",     url: "mailto:alig91666@gmail.com" },
   ],
