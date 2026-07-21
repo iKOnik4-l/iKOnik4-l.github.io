@@ -33,6 +33,48 @@
   @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
 
+/* Home page wallpaper backdrop — sits above the page background, behind all
+   content, and fades out downward so it blends into the page from below. */
+.home-backdrop {
+  position: absolute;
+  top: 0;
+  inset-inline: 0;
+  z-index: -1;
+  height: 80vh;
+  min-height: 440px;
+  pointer-events: none;
+  background-image: url("/wallpaper.jpg");
+  background-size: cover;
+  background-position: center 20%;
+  background-repeat: no-repeat;
+  opacity: 0.16;
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    #000 0%,
+    #000 30%,
+    transparent 100%
+  );
+  mask-image: linear-gradient(to bottom, #000 0%, #000 30%, transparent 100%);
+}
+
+html[data-theme="dark"] .home-backdrop {
+  opacity: 0.85;
+}
+
+/* On the home page the header bar would otherwise paint an opaque block over
+   the wallpaper across the content width, leaving a hard seam at the sides.
+   Let the backdrop run straight through it. */
+body:has(.home-backdrop) header > div {
+  background-color: transparent;
+  border-bottom-color: transparent;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .home-backdrop {
+    transition: opacity 0.3s ease;
+  }
+}
+
 :target {
   scroll-margin-block: 1rem;
 }
