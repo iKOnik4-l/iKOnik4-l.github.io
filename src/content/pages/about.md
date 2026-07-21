@@ -1,37 +1,42 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "Ali Gill — student at the University of Toronto, learning offensive security and writing down what sticks."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm **Ali Gill** — a student at the **University of Toronto**, based in Toronto, Canada.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I'm working toward a BSc (Hons) in **History and Philosophy of Science and Technology** and **Mathematics** (double major), with a **Computer Science** minor, finishing in 2027. The combination isn't an accident: mathematics gives me the rigour, HPS gives me the context for how we ended up trusting the systems we rely on, and computer science is where both get put to work.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Right now I'm focused on **offensive security**, and increasingly on where security meets **machine learning** — AI security is the direction I'm heading.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## What's on this site
 
-## Features
+This is where I keep my **HackTheBox machine writeups** and notes from whatever I'm currently studying — methodology from enumeration through privilege escalation, written so that I (and hopefully you) can follow it again later.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gitbook.io/home): 60+ interlinked pages covering web, wireless, Active Directory, and Linux exploitation.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Certifications & training
 
-and so much more.
+- **Hack The Box** — Certified Penetration Testing Specialist (CPTS)
+- **CompTIA** — Security+, Linux+
+- **INE** — Junior Penetration Tester (eJPT)
+- **TCM Security** — Practical OSINT Research Professional (PORP)
+- **Stanford / DeepLearning.AI** — Machine Learning Specialization
+- **Stanford Online** — Advanced Cybersecurity Program
+- Google Cybersecurity Specialization, MIT Cybersecurity for Critical Urban Infrastructure, CS50x
 
-## Show your support
+## Things I work with
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star.
+**Languages** — Python, Java, SQL, Bash, JavaScript (HTML/CSS)
 
-Found a bug or have an improvement in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+**Security** — Burp Suite, Nmap, Metasploit, Wireshark, BloodHound, Ligolo-ng, Hashcat, ffuf/gobuster, sqlmap, Active Directory exploitation, report writing
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+**ML & data** — NumPy, pandas, scikit-learn, Jupyter, TensorFlow, PyTorch
 
-Kyay zuu!
+**Infrastructure** — Linux (Arch/Debian), Docker, Git/GitHub, REST APIs, virtualization
+
+## Elsewhere
+
+- [GitHub](https://github.com/0xiKOn)
+- [Notes — GitBook](https://0xikon.gitbook.io/home)
+- [LinkedIn](https://www.linkedin.com/in/ali-aizid-gill)
