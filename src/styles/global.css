@@ -38,6 +38,29 @@
   @apply underline decoration-wavy decoration-2 underline-offset-8;
 }
 
+/* Small blue arrow used as the only clickable target in a list entry, so the
+   label itself stays plain text. Overrides the underlined prose link style. */
+.app-prose a.arrow-link,
+a.arrow-link {
+  color: #0077cc;
+  font-weight: 600;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.app-prose a.arrow-link:hover,
+a.arrow-link:hover {
+  color: #0077cc;
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+html[data-theme="dark"] .app-prose a.arrow-link,
+html[data-theme="dark"] a.arrow-link,
+html[data-theme="dark"] .app-prose a.arrow-link:hover {
+  color: #89b4fa;
+}
+
 /* Wallpaper backdrop — sits above the page background, behind all content,
    and fades out downward so it blends into the page from below. */
 .page-backdrop {
