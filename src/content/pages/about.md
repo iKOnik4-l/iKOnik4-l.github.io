@@ -18,35 +18,35 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
 ## Certifications
 
 <div class="cert-grid">
-  <a class="cert-card" href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist" target="_blank" rel="noopener noreferrer">
+  <a class="cert-card" href="https://www.credly.com/badges/2808d151-8c38-4951-8328-d5ae8c14268c/public_url" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/cpts.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2025</span>
     <span class="cert-card__name">Certified Penetration Testing Specialist</span>
     <span class="cert-card__meta">CPTS</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
-  <a class="cert-card" href="https://www.comptia.org/certifications/security" target="_blank" rel="noopener noreferrer">
+  <a class="cert-card" href="https://www.credly.com/badges/f3f85a05-2b30-45ab-9b87-3747b4e49454/public_url" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/security-plus.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2024</span>
     <span class="cert-card__name">CompTIA Security+</span>
     <span class="cert-card__meta">&nbsp;</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
-  <a class="cert-card" href="https://www.comptia.org/certifications/linux" target="_blank" rel="noopener noreferrer">
+  <a class="cert-card" href="https://www.credly.com/badges/4663d0ed-d8f0-4822-98f6-251d1d4153f8/public_url" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/linux-plus.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2024</span>
     <span class="cert-card__name">CompTIA Linux+</span>
     <span class="cert-card__meta">&nbsp;</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
-  <a class="cert-card" href="https://certifications.tcm-sec.com/porp/" target="_blank" rel="noopener noreferrer">
+  <a class="cert-card" href="https://certified.tcm-sec.com/0dbf55cd-4801-40d0-a29e-d9f42b54e737?key=c1febf057ba0868d7ec62491c97e7a4c9f030acf0aa7dd816423210f52fd06cb" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/porp.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2024</span>
     <span class="cert-card__name">Practical OSINT Research Professional</span>
     <span class="cert-card__meta">PORP</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
-  <a class="cert-card" href="https://security.ine.com/certifications/ejpt-certification/" target="_blank" rel="noopener noreferrer">
+  <a class="cert-card" href="https://certs.ine.com/a688e873-3ff2-43eb-b251-1fc9ad4b3333" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/ejpt.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2023</span>
     <span class="cert-card__name">Junior Penetration Tester</span>
