@@ -28,14 +28,14 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
   <a class="cert-card" href="https://www.comptia.org/certifications/security" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/security-plus.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2024</span>
-    <span class="cert-card__name">Security+</span>
+    <span class="cert-card__name">CompTIA Security+</span>
     <span class="cert-card__meta">&nbsp;</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
   <a class="cert-card" href="https://www.comptia.org/certifications/linux" target="_blank" rel="noopener noreferrer">
     <img class="cert-card__thumb" src="/certs/linux-plus.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2024</span>
-    <span class="cert-card__name">Linux+</span>
+    <span class="cert-card__name">CompTIA Linux+</span>
     <span class="cert-card__meta">&nbsp;</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
@@ -69,7 +69,7 @@ The longer-form reference lives in my [GitBook knowledge base](https://0xikon.gi
     <img class="cert-card__thumb" src="/certs/advanced-cybersecurity.webp" alt="" loading="lazy" />
     <span class="cert-card__year">2023</span>
     <span class="cert-card__name">Advanced Cybersecurity Program</span>
-    <span class="cert-card__meta">Stanford Online</span>
+    <span class="cert-card__meta">Stanford</span>
     <span class="cert-card__verify">Verify →</span>
   </a>
   <a class="cert-card" href="https://coursera.org/verify/professional-cert/MUDRCD4JZCW7" target="_blank" rel="noopener noreferrer">
